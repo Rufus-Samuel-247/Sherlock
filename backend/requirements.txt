@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+networkx==3.3
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+xgboost==2.1.1
+torch==2.4.1
+dgl==2.4
+shap==0.46.0
+faker==30.1.0
+websockets==13.1
+python-dotenv==1.0.1
